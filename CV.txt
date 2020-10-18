@@ -1,0 +1,1 @@
+My name is Daniil Motolyha, I’m 20 years old. I'm study in the BSTU (FIT-POIT 3 Course). Chose java becouse i want to learn more about this language and understand framework Spring well. Besides java, i also have good knowledge in languages like C#(based, OOP, threads, sockets), front (js, html, css), some node.js, c++ and databases(ms sql, mysql, oracle). 
